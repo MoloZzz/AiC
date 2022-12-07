@@ -26,5 +26,8 @@
     <ClInclude Include="ComplexNum.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="MargeSort.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

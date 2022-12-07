@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="Calc.h" />
     <ClInclude Include="ComplexNum.h" />
+    <ClInclude Include="MargeSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
